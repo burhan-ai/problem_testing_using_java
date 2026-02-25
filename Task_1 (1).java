@@ -14,5 +14,5 @@ class Task_8 {
         }
         
         return result;
-    }
+    }.
 }
